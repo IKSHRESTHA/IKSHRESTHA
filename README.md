@@ -29,10 +29,11 @@ This project is a book for actuarial students, specifically written to help stud
 - **Tech Stack:** R, Quarto
 - **Features:** Community stats, Interactive visualizations, Member analytics
 
-- ![Repo Size](https://img.shields.io/github/repo-size/IKSHRESTHA/project2)
-- ![Stars](https://img.shields.io/github/stars/IKSHRESTHA/project2)
-- ![Forks](https://img.shields.io/github/forks/IKSHRESTHA/project2)
-- ![Issues](https://img.shields.io/github/issues/IKSHRESTHA/project2)
+- ![Repo Size](https://img.shields.io/github/repo-size/IKSHRESTHA/Actuarial-Stat-Nepal)
+
+- ![Stars](https://img.shields.io/github/stars/IKSHRESTHA/Actuarial-Stat-Nepal)
+- ![Forks](https://img.shields.io/github/forks/IKSHRESTHA/Actuarial-Stat-Nepal)
+- ![Issues](https://img.shields.io/github/issues/IKSHRESTHA/Actuarial-Stat-Nepal)
 
 ## 📈 GitHub Stats
 
