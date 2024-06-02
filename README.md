@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm an actuarial enthusiast passionate about lever
 
 ## 📷 Latest LinkedIn Post
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnakumarshrestha)
-[![LinkedIn Latest Post](https://img.shields.io/twitter/url?label=Latest%20LinkedIn%20Post&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fshields.io)](https://www.linkedin.com/in/krishnakumarshrestha)
+[![LinkedIn Latest Post](https://img.shields.io/twitter/url?label=Latest%20LinkedIn%20Post&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fshields.io)](https://linkedin.com/in/krishnakumarshrestha/recent-activity/all/)
 
 ## 🛠️ My Tech Stack
 
