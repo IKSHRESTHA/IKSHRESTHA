@@ -19,6 +19,9 @@ Hover over the papers to see their full names:
 - **ALTAM**: <span title="Advanced Long-Term Actuarial Mathematics">Advanced Long-Term Actuarial Mathematics</span>
 - **SRM**: <span title="Statistics for Risk Modeling">Statistics for Risk Modeling</span>
 
+## 🏢 Past Roles
+
+
 - 📊 **Secretary at Actuarial Society of Nepal:** I serve as the Secretary of the Actuarial Society of Nepal, contributing to the growth and development of the actuarial profession in Nepal.
 - 🎓 **R Programming Instructor at SMS TU:** I also work as an R Programming Instructor at Tribhuvan University's School of Mathematical Sciences (SMS TU), empowering students with the skills needed for data analysis and statistical modeling.
 - 💼 **Actuarial Consultant at Principle Risk Consulting:** Additionally, I serve as an Actuarial Consultant at Principle Risk Consulting, where I apply my expertise to provide strategic insights and risk management solutions.
