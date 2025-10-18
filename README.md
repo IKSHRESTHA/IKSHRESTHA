@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm an actuarial enthusiast passionate about lever
 - **Master of Science in Professional Science (Concentration: Actuarial Science)**  
   Middle Tennessee State University  
   **Duration:** January 2025 - April 2026  
-  **Expected GPA:** 3.9+
+  **Expected GPA:** 3.95+
 
 ## 📜 Actuarial Papers
 
