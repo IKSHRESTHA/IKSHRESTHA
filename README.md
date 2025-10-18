@@ -1,6 +1,8 @@
 # Hello, I'm Krishna Kumar Shrestha! 👋
 
-Welcome to my GitHub profile! I'm an actuarial enthusiast passionate about leveraging data and statistical methods to solve complex problems. Currently, I hold several significant roles:
+Welcome to my GitHub profile. I'm an actuarial professional and educator focused on applying data, statistics, and domain knowledge to risk problems in life, health, and retirement.
+
+I currently hold several roles in the actuarial community and industry:
 
 ## 🎓 Education
 
@@ -25,6 +27,18 @@ Hover over the papers to see their full names:
 - 📊 **Secretary at Actuarial Society of Nepal:** I serve as the Secretary of the Actuarial Society of Nepal, contributing to the growth and development of the actuarial profession in Nepal.
 - 🎓 **R Programming Instructor at SMS TU:** I also work as an R Programming Instructor at Tribhuvan University's School of Mathematical Sciences (SMS TU), empowering students with the skills needed for data analysis and statistical modeling.
 - 💼 **Actuarial Consultant at Principle Risk Consulting:** Additionally, I serve as an Actuarial Consultant at Principle Risk Consulting, where I apply my expertise to provide strategic insights and risk management solutions.
+
+- 🌐 **Student Ambassador — Society of Actuaries:** I represent and promote actuarial education, student engagement, and professional development initiatives as a Student Ambassador for the Society of Actuaries.
+
+## 🔎 Open to Internship & Collaboration
+
+I'm actively seeking internship opportunities and collaborations, particularly in areas of:
+
+- Life insurance
+- Health insurance
+- Retirement, pensions & annuities
+
+If your team has internship openings (or project work) related to these lines of business — especially roles involving analytics, pricing, reserving, or research — please feel free to connect. I'm eager to contribute, learn, and grow in a hands-on actuarial environment.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=IKSHRESTHA&style=flat-square)
 
@@ -52,3 +66,9 @@ Hover over the papers to see their full names:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnakumarshrestha)
 
 Thank you for visiting my profile! Feel free to reach out to me for collaborations or just to say hi! 😊
+
+---
+
+Notes:
+- Replace contact links above if you prefer a different email or LinkedIn URL.
+- If you'd like, I can further tailor this README with a short portfolio of projects, sample code snippets, or a CV download link.
