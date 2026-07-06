@@ -8,7 +8,7 @@ I currently hold several roles in the actuarial community and industry:
 
 - **Master of Science in Professional Science (Concentration: Actuarial Science)**  
   Middle Tennessee State University  
-  **Duration:** January 2025 - April 2026  
+  **Duration:** January 2025 - Augest 2026  
   **Expected GPA:** 3.8+
 
 ## 📜 Actuarial Papers
